@@ -1,4 +1,5 @@
-**House Price Prediction App**
+House Price Prediction App
+
 This is a web application built with Python and Streamlit to predict house prices based on various input features. The app uses a machine learning model trained on historical housing data to provide accurate price estimates.
 
 Features:
